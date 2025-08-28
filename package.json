@@ -1,0 +1,8 @@
+{
+  "name": "capsule-mailer",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.0"
+  }
+}
